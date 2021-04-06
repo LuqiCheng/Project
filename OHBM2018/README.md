@@ -1,0 +1,2 @@
+
+Luqi Cheng, Lingzhong Fan, Tianzi Jiang. Connectivity-based parcellation using volume-based and surface-based diffusion tractography[C]. 24th Annual Meeting of the Organization for Human Brain Mapping (OHBM2018), Singapore, June 17-21, 2018.
