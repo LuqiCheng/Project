@@ -1,0 +1,2 @@
+
+Luqi Cheng, Yuanchao Zhang, Gang Li, Jiaojian Wang, William D. Hopkins, Chet C. Sherwood, Gaolang Gong, Linzhong Fan, Tianzi Jiang. Divergent Connectional Asymmetries of the IPL Shape Hemispheric Specialization Across Primates. 27th Annual Meeting of the Organization for Human Brain Mapping (OHBM2021), Online, June 27 - July 1, 2021.
